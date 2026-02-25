@@ -1,8 +1,8 @@
-# Defensive Publication Bundle — v1.0.1
+# Defensive Publication Bundle — v1.0.0
 
 ---
 
-# Part A — Defensive Publication (Prior Art) v1.0.1
+# Part A — Defensive Publication (Prior Art) v1.0.0
 
 ## Title (EN)
 On-device Temporal Alignment of Two Practice Videos via Pose-Keypoint Sequence Matching with Optional Audio-Assisted Candidate Generation and/or Audio Verification / Micro-Refinement
