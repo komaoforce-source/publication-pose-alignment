@@ -1,8 +1,8 @@
-# Defensive Publication Bundle — v1.0.0
+# Defensive Publication Bundle — v1.0.1
 
 ---
 
-# Part A — Defensive Publication (Prior Art) v1.0.0
+# Part A — Defensive Publication (Prior Art) v1.0.1
 
 ## Title (EN)
 On-device Temporal Alignment of Two Practice Videos via Pose-Keypoint Sequence Matching with Optional Audio-Assisted Candidate Generation and/or Audio Verification / Micro-Refinement
@@ -299,12 +299,11 @@ This document is published to establish prior art for:
 ---
 
 ## A.10 Publication Metadata / 公開メタ情報
-- **Authors / 著者**：SparklyForce（または希望表記）
+- **Authors / 著者**：Sparklyforce
 - **Version**：v1.0.0
 - **Publication date (UTC) / 公開日（UTC）**：2026-02-25
 - **First public timestamp (UTC, ISO 8601)**：2026-02-25T09:23:00Z
 - **Repository tag (optional)**：v1.0.0
-- **Commit hash (Git SHA)**：<to be filled>
 - **Commit hash (Git SHA)**：b3b6420
 - **Permanent URL**：GitHub Release URL https://github.com/komaoforce-source/publication-pose-alignment/tree/v1.0.0
 - **Immutable archive URL**：Zenodo record URL / Internet Archive URL https://zenodo.org/records/18772981
