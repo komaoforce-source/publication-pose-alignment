@@ -305,7 +305,7 @@ This document is published to establish prior art for:
 - **First public timestamp (UTC, ISO 8601)**：2026-02-25T09:23:00Z
 - **Repository tag (optional)**：v1.0.0
 - **Commit hash (Git SHA)**：<to be filled>
-- **Permanent URL**：GitHub Release URL（後で追記）
-- **Immutable archive URL**：Zenodo record URL / Internet Archive URL（後で追記）
-- **DOI**：Zenodo Version DOI（発行後に追記）
-- **Hash (optional)**：PDF SHA-256（推奨）
+- **Commit hash (Git SHA)**：b3b6420
+- **Permanent URL**：GitHub Release URL（https://github.com/komaoforce-source/publication-pose-alignment/tree/v1.0.0）
+- **Immutable archive URL**：Zenodo record URL / Internet Archive URL（https://zenodo.org/records/18772981）
+- **DOI**：Zenodo Version DOI（10.5281/zenodo.18772981）
