@@ -19,7 +19,8 @@ Released to help practitioners reproduce and improve the method, and to establis
 - Version DOI (this release): 10.5281/zenodo.18772981
 
 GitHub Release: https://github.com/komaoforce-source/publication-pose-alignment/releases/tag/v1.0.0  
-Commit (Git SHA): https://zenodo.org/records/18772981 
+Commit (Git SHA): https://zenodo.org/records/18772981
+
 First public timestamp (UTC, ISO 8601): 2026-02-25T14:34:00Z
 
 ## License (Document)
